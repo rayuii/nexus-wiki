@@ -8,8 +8,8 @@ The users who manage, moderate and improve Nexus every day.
 
 User                                             |                    Role                    | Added Date
 -------------------------------------------------|:------------------------------------------:|---------------------------------------------
-[xooty](https://osu-nexus.ovh/u/2)               | Nexus Lead Developer and Project Manager | Since the beginning
-[mrekk](https://osu.titanic.sh/u/3)            |             Community Manager              | Since the beginning
+[his kitten](https://osu-nexus.ovh/u/2)               | Nexus Lead Developer and Project Manager | Since the beginning
+[Vaxei](https://osu.titanic.sh/u/3)            |             Community Manager              | Since the beginning
 [Levi](https://lekuru.xyz)    |       Owner of Titanic (Framework/Source codes)        | N/A
 
 
